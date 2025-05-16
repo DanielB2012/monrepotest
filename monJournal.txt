@@ -1,0 +1,11 @@
+bit:
+    un 1 ou un 0
+ 
+Octet: (Byte)
+    8 bits 
+    exemple: 11001101
+
+KiloOctet: 1024 octets (Ko)
+MegaOctet: 1024*1024 octets (Mo)
+GigaOctet: 1024*1024*1024 octets (Go)
+TeraOctet: 1024*1024*1024*1024 octets (Go)
