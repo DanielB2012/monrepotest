@@ -9,3 +9,6 @@ KiloOctet: 1024 octets (Ko)
 MegaOctet: 1024*1024 octets (Mo)
 GigaOctet: 1024*1024*1024 octets (Go)
 TeraOctet: 1024*1024*1024*1024 octets (Go)
+
+
+danei
